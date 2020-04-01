@@ -1,0 +1,4 @@
+tata@mail.com|tata
+toto@mail.com|toto
+titi@mail.com|titi
+tete@mail.com|tete
